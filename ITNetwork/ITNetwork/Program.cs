@@ -17,7 +17,7 @@ namespace ITNetwork
             vstup = Console.ReadLine();
 
             string vystup;
-            vystup = vstup + " " + vstup + "!";
+            vystup = vstup + " " + vstup;// + "!";
 
             Console.WriteLine(vystup);
             Console.ReadKey();
