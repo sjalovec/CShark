@@ -26,6 +26,8 @@ namespace ITNetwork
 
             Console.WriteLine(vystup);
             Console.ReadKey();
+
+            
         }
     }
 }
