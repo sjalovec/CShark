@@ -14,6 +14,11 @@ namespace ProgramVypisujiciPromenou
             a = 56;
             Console.WriteLine(a);
             Console.ReadKey();
+
+            float b;
+            b = 56.6F;
+            Console.WriteLine(b);
+            Console.ReadKey();
         }
     }
 }
